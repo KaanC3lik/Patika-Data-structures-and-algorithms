@@ -1,5 +1,5 @@
 # patika-insertion-sort
-Patika veri yapıları ve algoritmalar kursu için insertion sort projesi
+Patika Data structures and algorithms project
 [22,27,16,2,18,6] -> Insertion Sort
 
 Requested;
